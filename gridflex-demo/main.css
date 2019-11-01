@@ -151,7 +151,7 @@ h3 {
 .background {
   grid-column: 2/3;
   grid-row: 1/4;
-  background-image: url("/background2.png");
+  background-image: url("./background2.png");
   background-size: cover;
   background-position: left center;
   background-repeat: no-repeat;
@@ -164,7 +164,7 @@ h3 {
 
 @media only screen and (max-width: 850px) {
   .grid-wrapper {
-    background-image: url("/background.jpg");
+    background-image: url("./background.jpg");
     background-size: cover;
     background-position: center;
     background-color: lightgray;
