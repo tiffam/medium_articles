@@ -4,6 +4,9 @@ My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 
 ## Articles written so far
 
+###### I don't know CSS... well (new series)
+- [Why doesn’t my CSS work the way it should?](https://medium.com/@lim.aliceyt/why-doesnt-my-css-work-the-way-it-should-e2313815520a)
+
 ###### Components
 - [How to style the ubiquitous button with CSS](https://medium.com/@lim.aliceyt/how-to-style-the-ubiquitous-button-with-css-6bf1066e01be)
 
@@ -23,7 +26,10 @@ My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 - [CSS Explicit Defaulting: initial, inherit, unset, and revert](https://medium.com/better-programming/css-explicit-defaulting-initial-inherit-unset-and-revert-9110647cdaa1)
 - [How To Control White Space in Text With CSS](https://medium.com/better-programming/how-to-control-white-space-in-text-with-css-2a7695a0c73b)
 
-###### Using the Right Terms
+###### General HTML
+- [Understanding the Tags in HTML Boilerplate](https://medium.com/better-programming/understanding-the-tags-in-html-boilerplate-38d1ae2805f7)
+
+###### Using the Right Terms (discontinued series for now)
 - [CSS Inheritance: Using the Right Terms](https://medium.com/better-programming/css-inheritance-using-the-right-terms-532468b46a05)
 - [CSS Style Rules: Using the Right Terms](https://medium.com/better-programming/css-style-rules-using-the-right-terms-c8ddd82d4c47)
 
