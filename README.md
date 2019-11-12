@@ -1,4 +1,4 @@
-# Code repository for my Medium articles
+# Code repository for my Medium articles <img src="https://miro.medium.com/fit/c/256/256/2*ObBy4f3rjj9Ib0ykFq9kgw.png" alt="avatar" width="40"/> 
 
 My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 
