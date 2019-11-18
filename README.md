@@ -6,6 +6,8 @@ My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 
 ###### I don't know CSS... well (new series)
 - [Why doesn’t my CSS work the way it should?](https://medium.com/@lim.aliceyt/why-doesnt-my-css-work-the-way-it-should-e2313815520a)
+- <sup>New</sup> [Debug CSS Grid with Firefox DevTools](https://medium.com/@lim.aliceyt/debug-css-grid-with-firefox-devtools-949f328aab88)
+
 
 ###### Components
 - [How to style the ubiquitous button with CSS](https://medium.com/@lim.aliceyt/how-to-style-the-ubiquitous-button-with-css-6bf1066e01be)
