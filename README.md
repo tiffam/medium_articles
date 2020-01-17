@@ -32,6 +32,8 @@ My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 
 ###### General HTML
 - [Understanding the Tags in HTML Boilerplate](https://medium.com/better-programming/understanding-the-tags-in-html-boilerplate-38d1ae2805f7)
+- <sup>New</sup> [The Anatomy of HTML Links](https://medium.com/better-programming/a-primer-on-html-links-af632c4857e0)
+
 
 ###### Using the Right Terms (discontinued series for now)
 - [CSS Inheritance: Using the Right Terms](https://medium.com/better-programming/css-inheritance-using-the-right-terms-532468b46a05)
@@ -52,4 +54,4 @@ My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 - [How I learn to code (from videos)?](https://medium.com/@lim.aliceyt/how-i-learn-to-code-from-videos-bad52aedfb9f)
 
 ###### Flutter: Productivity
-- <sup>New</sup> [Introduction to Flutter on DartPad](https://medium.com/better-programming/introduction-to-flutter-on-dartpad-413b7680179b)
+- [Introduction to Flutter on DartPad](https://medium.com/better-programming/introduction-to-flutter-on-dartpad-413b7680179b)
