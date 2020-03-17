@@ -29,13 +29,15 @@ My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 - [CSS Explicit Defaulting: initial, inherit, unset, and revert](https://medium.com/better-programming/css-explicit-defaulting-initial-inherit-unset-and-revert-9110647cdaa1)
 - [How To Control White Space in Text With CSS](https://medium.com/better-programming/how-to-control-white-space-in-text-with-css-2a7695a0c73b)
 - [6 Ways to Style Text on Images in CSS](https://medium.com/better-programming/ways-to-style-text-on-images-in-css-fa94e31d63e7)
-- <sup>New</sup> [Create Stylish Links with CSS](https://medium.com/@lim.aliceyt/create-stylish-links-with-css-983d33102f5a)
+- [Create Stylish Links with CSS](https://medium.com/@lim.aliceyt/create-stylish-links-with-css-983d33102f5a)
 - <sup>New</sup> [Add 3D Effects to Your Text with CSS](https://medium.com/swlh/add-3d-effects-to-your-text-with-css-588da44f709f)
 
 ###### General HTML
 - [Understanding the Tags in HTML Boilerplate](https://medium.com/better-programming/understanding-the-tags-in-html-boilerplate-38d1ae2805f7)
 - [The Anatomy of HTML Links](https://medium.com/better-programming/a-primer-on-html-links-af632c4857e0)
 
+- <sup>New</sup>  [Guide on Using Heading Tags in HTML](https://medium.com/front-end-chummies/guide-on-using-heading-tags-in-html-53798b79867f)
+- <sup>New</sup>  [Tag Your Text the Right Way With Semantic HTML](https://medium.com/@lim.aliceyt/tag-your-text-the-right-way-with-semantic-html-cf3324b14d1b)
 
 ###### Using the Right Terms (discontinued series for now)
 - [CSS Inheritance: Using the Right Terms](https://medium.com/better-programming/css-inheritance-using-the-right-terms-532468b46a05)
