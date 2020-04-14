@@ -20,6 +20,7 @@ My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 - [How I Use Flexbox to Create a One-page Website](https://medium.com/swlh/how-i-use-flexbox-to-create-a-one-page-website-81db78e61738)
 - [How I Use CSS Grid and Flexbox to Create a One-page Website](https://medium.com/swlh/how-i-use-css-grid-and-flexbox-to-create-a-one-page-website-262aeea3592a)
 - [How I Use CSS Grid and Flexbox to Create a One-page Website Part 2](https://medium.com/@lim.aliceyt/how-i-use-css-grid-and-flexbox-to-create-a-one-page-website-part-2-e575edb422fe)
+- <sup>New</sup> [Create an Image Gallery Using CSS Grid and Flexbox](https://medium.com/better-programming/how-to-use-css-grid-and-flexbox-to-create-an-image-gallery-924f7896d142)
 
 ###### General CSS 
 - [How selective should I be when choosing selectors for CSS?](https://medium.com/swlh/how-selective-should-i-be-when-choosing-selectors-for-css-16d80287a4e1)
@@ -36,8 +37,9 @@ My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 - [Understanding the Tags in HTML Boilerplate](https://medium.com/better-programming/understanding-the-tags-in-html-boilerplate-38d1ae2805f7)
 - [The Anatomy of HTML Links](https://medium.com/better-programming/a-primer-on-html-links-af632c4857e0)
 
-- <sup>New</sup>  [Guide on Using Heading Tags in HTML](https://medium.com/front-end-chummies/guide-on-using-heading-tags-in-html-53798b79867f)
-- <sup>New</sup>  [Tag Your Text the Right Way With Semantic HTML](https://medium.com/@lim.aliceyt/tag-your-text-the-right-way-with-semantic-html-cf3324b14d1b)
+- [Guide on Using Heading Tags in HTML](https://medium.com/front-end-chummies/guide-on-using-heading-tags-in-html-53798b79867f)
+- [Tag Your Text the Right Way With Semantic HTML](https://medium.com/@lim.aliceyt/tag-your-text-the-right-way-with-semantic-html-cf3324b14d1b)
+- <sup>New</sup>  [Control Types (including Virtual Keyboards) Associated with 14 HTML Input Types](https://medium.com/front-end-chummies/control-types-including-virtual-keyboards-associated-with-14-html-input-types-4a0b216d68c6)
 
 ###### Using the Right Terms (discontinued series for now)
 - [CSS Inheritance: Using the Right Terms](https://medium.com/better-programming/css-inheritance-using-the-right-terms-532468b46a05)
@@ -51,6 +53,9 @@ My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 - [Mockup of iPhone 11 with CSS](https://medium.com/@lim.aliceyt/mockup-of-iphone-11-with-css-2df1ae4ea6ac)
 - [Why do websites look the same?](https://medium.com/swlh/why-do-websites-look-the-same-dfe9bc8970ac)
 - [Semantic HTML, something nice to have but not necessary?](https://medium.com/@lim.aliceyt/semantic-html-something-nice-to-have-but-not-necessary-50929bb48de8)
+
+###### Others: Writing
+- <sup>New</sup>  [3 Popular Embeds for Sharing Code on Medium](https://medium.com/better-programming/popular-embeds-for-sharing-code-on-medium-8ba951e9c5d0)
 
 ###### Others: Productivity
 - [How Much Time Can You Save With HTML Shortcuts?](https://medium.com/better-programming/how-much-time-can-you-save-with-html-shortcuts-5357a32756d7)
