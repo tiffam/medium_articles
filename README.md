@@ -11,7 +11,8 @@ My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 
 ###### Components
 - [How to style the ubiquitous button with CSS](https://medium.com/@lim.aliceyt/how-to-style-the-ubiquitous-button-with-css-6bf1066e01be)
-- <sup>New</sup> [Create beautiful numbered lists with CSS Counters](https://blog.prototypr.io/create-beautiful-numbered-lists-with-css-counters-726e705d9e14)
+- [Create beautiful numbered lists with CSS Counters](https://blog.prototypr.io/create-beautiful-numbered-lists-with-css-counters-726e705d9e14)
+- <sup>New</sup> [Create a Scenic Day and Night Toggle Button with HTML and CSS](https://blog.prototypr.io/create-a-scenic-day-and-night-toggle-button-with-html-and-css-37a8e2532e68)
 
 ###### Layout
 - [How I solve Flexbox Froggy puzzles](https://medium.com/@lim.aliceyt/how-i-solve-flexbox-froggy-puzzles-cb42372b55b2)
@@ -31,7 +32,7 @@ My Medium articles can be accessed from https://medium.com/@lim.aliceyt
 - [How To Control White Space in Text With CSS](https://medium.com/better-programming/how-to-control-white-space-in-text-with-css-2a7695a0c73b)
 - [6 Ways to Style Text on Images in CSS](https://medium.com/better-programming/ways-to-style-text-on-images-in-css-fa94e31d63e7)
 - [Create Stylish Links with CSS](https://medium.com/@lim.aliceyt/create-stylish-links-with-css-983d33102f5a)
-- <sup>New</sup> [Add 3D Effects to Your Text with CSS](https://medium.com/swlh/add-3d-effects-to-your-text-with-css-588da44f709f)
+- [Add 3D Effects to Your Text with CSS](https://medium.com/swlh/add-3d-effects-to-your-text-with-css-588da44f709f)
 
 ###### General HTML
 - [Understanding the Tags in HTML Boilerplate](https://medium.com/better-programming/understanding-the-tags-in-html-boilerplate-38d1ae2805f7)
